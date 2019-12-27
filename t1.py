@@ -1,5 +1,5 @@
-pppppppppppppp
-rrrrasdf
-asdfsavq
-qerqweg
-cvscafdsafdsa
+def test():
+    print("aaaaa")
+    print("bbbbb")
+    print("ccccc")
+
